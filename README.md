@@ -2,7 +2,7 @@
 
 
 
--<h1>Overview of Project
+#Overview of Project
 
 
 
@@ -26,17 +26,17 @@ The files we will be using are:
 - Command-line interface: You will use the command-line interface to run a local server. If you're a Mac user, this means Terminal. If you're a Windows user, you'll be using Git Bash.
 - GitHub: As you will deploy your final data visualization on GitHub Pages, you will need your GitHub account.
 
--<h1>Purpose
+#Purpose
 
 #Script
 
--<h1>Data Analytics 
+#Data Analytics 
 
 ## Analysis and Challenges
 ### Analysis of Outcomes
 ### Challenges and Difficulties Encountered
 
--<h1>Results & Visualization 
+#Results & Visualization 
 
 ### What are two conclusions you can draw about the Outcomes
 ### What can you conclude about the Outcomes
