@@ -38,8 +38,12 @@ Module 12 we completed the following;
 The next step is to complete the following 3 tasks:
 
 1. Horizontal
+
+![Bar](https://github.com/735713038455163/Belly_Button_Biodiversity/blob/main/Bar.PNG)
 2. Bubble 
+![Bubble](https://github.com/735713038455163/Belly_Button_Biodiversity/blob/main/Bubble.PNG)
 3. Gauge
+![Gauge](https://github.com/735713038455163/Belly_Button_Biodiversity/blob/main/Gauge.PNG)
 
 # Data Analytics 
 
