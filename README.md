@@ -20,7 +20,7 @@ We will be using:
 - Command-line interface: You will use the command-line interface to run a local server.  Git Bash.
 - GitHub: To deploy your final data visualization on GitHub 
 
-Specifically, the files are:
+Specifically, the files are found in the js folder:
 
 index.html 
 plots.js
