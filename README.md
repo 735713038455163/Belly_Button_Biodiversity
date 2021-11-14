@@ -45,19 +45,19 @@ The next step is to complete the following 3 tasks:
 3. Gauge
 ![Gauge](https://github.com/735713038455163/Belly_Button_Biodiversity/blob/main/Gauge.PNG)
 
-# Data Analytics 
+ 
+#Data Analytics 
+## Custom DashBoard
+Use your knowledge of HTML and Bootstrap to customize the webpage for your dashboard.
 
-Custom DashBoard
-
-## Analysis and Challenges
-
-### Analysis of Outcomes
-### Challenges and Difficulties Encountered
-
-#Results & Visualization 
-
-### What are two conclusions you can draw about the Outcomes
-### What can you conclude about the Outcomes
-### What are some limitations of this dataset?
-### What are some other possible 
-
+-Customize your dashboard with three of the following:
+Add an image to the jumbotron.
+Add background color or a variety of compatible colors to the webpage.
+Use a custom font with contrast for the colors.
+Add more information about the project as a paragraph on the page.
+Add information about what each graph visualizes, either under or next to each graph.
+Make the webpage mobile-responsive.
+Change the layout of the page.
+Add a navigation bar that allows you to select the bar or bubble chart on the page.
+- When the dashboard is first opened in a browser, ID 940’s data should be displayed in the dashboard, and the three charts should be working according to their requirements.
+- When a sample is selected, the dashboard should display the data in the panel and all three charts according to their requirements.
