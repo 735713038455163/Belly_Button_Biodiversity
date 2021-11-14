@@ -27,14 +27,24 @@ plots.js
 samples.json
 
 
-
 #Purpose
+To get started with Plotly to transform data with JavaScript, to retrived external data, JavaScript troblshotting events, Deployment, and Application. 
 
 #Script
 
+Module 12 we completed the following;
+![Start](https://github.com/735713038455163/Belly_Button_Biodiversity/blob/main/Start.PNG)
+
+Horizontal
+Bubble 
+Gauge
+
 #Data Analytics 
 
+Custom DashBoard
+
 ## Analysis and Challenges
+
 ### Analysis of Outcomes
 ### Challenges and Difficulties Encountered
 
