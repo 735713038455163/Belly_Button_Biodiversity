@@ -2,7 +2,7 @@
 
 
 
-#Overview of Project
+# Overview of Project
 
 During the 12th week of the Trilogy University of Toronto Data Analytics & Visualization Bootcamp our Module 12 challenge is to create a written analysis with four key deliverables as follows; 
 
@@ -27,19 +27,21 @@ plots.js
 samples.json
 
 
-#Purpose
+# Purpose
 To get started with Plotly to transform data with JavaScript, to retrived external data, JavaScript troblshotting events, Deployment, and Application. 
 
-#Script
+# Script
 
 Module 12 we completed the following;
 ![Start](https://github.com/735713038455163/Belly_Button_Biodiversity/blob/main/Start.PNG)
 
-Horizontal
-Bubble 
-Gauge
+The next step is to complete the following 3 tasks:
 
-#Data Analytics 
+1. Horizontal
+2. Bubble 
+3. Gauge
+
+# Data Analytics 
 
 Custom DashBoard
 
