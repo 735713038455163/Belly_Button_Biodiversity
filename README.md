@@ -8,10 +8,10 @@ During the 12th week of the Trilogy University of Toronto Data Analytics & Visua
 
 Here is the list of deliverables for the analysis of 4 deliverables:
 
-Deliverable 1: Create a Horizontal Bar Chart
-Deliverable 2: Create a Bubble Chart
-Deliverable 3: Create a Gauge Chart
-Deliverable 4: Customize the Dashboard
+- Deliverable 1: Create a Horizontal Bar Chart
+- Deliverable 2: Create a Bubble Chart
+- Deliverable 3: Create a Gauge Chart
+- Deliverable 4: Customize the Dashboard
 
 We will be using:
 
