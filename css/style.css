@@ -6,6 +6,7 @@ body {
 .jumbotron {
   background-image: url(http://www.themarysue.com/wp-content/uploads/2011/01/bellybuttonbacteria-550x403.jpg);
   background-size: 100% 100%;
+  background-color: rgb(49, 150, 184);
   text-align: center;
-  color: #3dc514;
+  color: #147ec5;
 }
