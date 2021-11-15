@@ -9,6 +9,7 @@ body {
   background-color: rgb(3, 5, 4);
   text-align: center;
   font-size: xxx-large;
-  font-family: 'Times New Roman', Times, serif;
-  color: rgb(216, 12, 148);
+  font-family: fantasy;
+  outline-style: solid;
+  color: rgb(8, 9, 14);
 }
