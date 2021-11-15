@@ -49,6 +49,7 @@ The next step is to complete the following 3 tasks:
 ## Custom Dashboard
 
 - Add an image to the jumbotron.
+![Nav](https://github.com/735713038455163/Belly_Button_Biodiversity/blob/main/Nav.PNG)
 - Add background color or a variety of compatible colors to the webpage.
 - Use a custom font with contrast for the colors.
 - Add more information about the project as a paragraph on the page.
