@@ -50,12 +50,12 @@ The next step is to complete the following 3 tasks:
 
 - Add an image to the jumbotron.
 ![Nav](https://github.com/735713038455163/Belly_Button_Biodiversity/blob/main/Nav.PNG)
-- Add background color or a variety of compatible colors to the webpage.
+
 - Use a custom font with contrast for the colors.
 ![Font](https://github.com/735713038455163/Belly_Button_Biodiversity/blob/main/font.PNG)
 
-- Add more information about the project as a paragraph on the page.
 - Add information about what each graph visualizes, either under or next to each graph.
+![titles](https://github.com/735713038455163/Belly_Button_Biodiversity/blob/main/titles.PNG)
+
 - Make the webpage mobile-responsive.
-- Change the layout of the page.
 
