@@ -58,4 +58,4 @@ The next step is to complete the following 3 tasks:
 ![titles](https://github.com/735713038455163/Belly_Button_Biodiversity/blob/main/titles.PNG)
 
 - Make the webpage mobile-responsive.
-
+![](https://github.com/735713038455163/Belly_Button_Biodiversity/blob/main/Final.PNG)
