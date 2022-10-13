@@ -4,7 +4,7 @@
 
 # Overview of Project
 
-During the 12th week of the Trilogy University of Toronto Data Analytics & Visualization Bootcamp our Module 12 challenge is to create a written analysis with four key deliverables as follows; 
+The challenge is to create a written analysis with four key deliverables as follows; 
 
 Here is the list of deliverables for the analysis of 4 deliverables:
 
